@@ -68,6 +68,6 @@ const app = {
       writeToFile("./dist/team.html", generateTeam(teamArray));
       console.log(`Great! Profile Genrated`);
 
-    };
+};
 
-    app.init();
+app.init();
