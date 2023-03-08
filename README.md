@@ -16,5 +16,31 @@ so that I have quick access to their emails and GitHub profiles.
 - getEmail()
 - getRole()—returns 'Employee'
 
-
+## Table of Contents
+  * [Instructions](#instruction)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  ## Installation
+  The following necessary dependencies must be installed to run the application.
+  * Inquirer
+  * Node
+  * json
+  * HTML
+  *jest
+  ## Usage 
+  In order to use this app, the command line should be presented in a way that is systematic and efficient. 
+  ## License
+  This project is licensed under the undefined license.
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  ## Contributing
+  Contributors: There are no contributors as at now.
+  ## Tests
+  The following is needed to run the test: npm tests
+  ## Questions
+  If you have any question about this repo, open an issue or contact git username: alexsosei or email: alexsosei@icloud.com
+  
 
